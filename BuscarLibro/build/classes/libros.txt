@@ -1,0 +1,22 @@
+978-0-14-028333-4;Cien Años de Soledad;Gabriel García Márquez;true;false
+978-0-06-091554-3;El Otoño del Patriarca;Gabriel García Márquez;false;true
+978-0-14-303995-2;El Amor en los Tiempos del Cólera;Gabriel García Márquez;true;true
+978-0-15-601215-8;Crónica de una Muerte Anunciada;Gabriel García Márquez;false;false
+978-1-56689-788-4;La Casa de las Bellas Durmientes;Yasunari Kawabata;true;false
+978-0-451-52747-3;Rayuela;Julio Cortázar;true;true
+978-0-679-72580-5;Bestiario;Julio Cortázar;false;true
+978-0-14-118157-0;Final del Juego;Julio Cortázar;true;false
+978-0-06-092417-5;Los siete locos;Roberto Arlt;false;true
+978-0-14-044913-6;Veinte Mil Leguas de Viaje Submarino;Julio Verne;true;true
+978-0-14-036722-7;Viaje al Centro de la Tierra;Julio Verne;false;false
+978-0-14-032303-2;De la Tierra a la Luna;Julio Verne;true;false
+978-0-14-118587-5;Ficciones;Jorge Luis Borges;true;true
+978-0-394-51355-3;El Aleph;Jorge Luis Borges;false;true
+978-0-14-018579-8;El Hacedor;Jorge Luis Borges;true;false
+978-0-15-101021-4;La Metamorfosis;Franz Kafka;false;true
+978-0-14-018616-0;El Proceso;Franz Kafka;true;false
+978-0-671-09743-5;La Condena;Franz Kafka;false;true
+978-0-7432-7545-0;La Fiesta del Chivo;Mario Vargas Llosa;true;true
+978-0-7432-7340-4;La Ciudad y los Perros;Mario Vargas Llosa;false;true
+978-0-679-72842-3;Conversación en La Catedral;Mario Vargas Llosa;true;false
+
