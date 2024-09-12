@@ -1,0 +1,7 @@
+N100,SABUESOS,Item 3,adasdsa,Terror,true,true
+N99,SABUESOS2,Item 3,adasdsaSADAS,Romance,true,false
+N50,ASDASD,Jose Jose,tal tal,Terror,true,false
+N2003,DEA,Garcia Marquez,ASDDSAD,Ciencia Ficción,true,false
+N100,Sabuesos,Jesus Camargo,Interesante,Ciencia Ficción,true,false
+N99,Sabuesosa,Jose jose,Interesante asd,Terror,true,true
+N001,Sabuesos,Laura Esquivel,HolaQueHaCE,Terror,true,true
