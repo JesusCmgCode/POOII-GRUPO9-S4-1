@@ -1,5 +1,0 @@
-978-3-16-148410-0	El Gran Libro	Autor 1	true	false
-978-1-61-729453-0	Otro Libro	Autor 2	false	true
-978-0-13-468599-1	Programación en Java	Autor 3	true	true
-978-0-321-35668-0	Diseño de Patrones	Autor 4	false	false
-978-0-201-63361-0	Algoritmos	Autor 5	true	false
